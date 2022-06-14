@@ -5,3 +5,7 @@ My first android app made with React Native and Expo. In this app you can save y
 [Download apk of the app](https://firebasestorage.googleapis.com/v0/b/dgcloud1-b1c43.appspot.com/o/ShoppingList.apk?alt=media&token=93a0fd65-5622-4f90-8c93-915ba89ad193)
 
 ## Promo
+
+
+https://user-images.githubusercontent.com/107392088/173660166-c840b634-4009-4bf2-bd40-44f958cbce79.mp4
+
